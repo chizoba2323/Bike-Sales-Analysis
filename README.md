@@ -1,7 +1,7 @@
+![DASHBOARD](https://github.com/user-attachments/assets/788d8fc3-f450-4d75-8953-2d5dcc4b8546)
 # Bike-Sales-Analysis
 # Analysis of Bike sales within countries where our store are located
  # Bike Sales Data Analysis (2021-2022)  
-![DASHBOARD](https://github.com/user-attachments/assets/9563b097-22ce-4f16-bdfa-cea762049c54)
 
 ## Description  
 This project analyzes *bike sales data from 2021 to 2022, focusing on key financial metrics such as **profit, revenue, and cost* across different dimensions (month, country, state, sub-category, and product). The dataset was *cleaned, processed, analyzed, and visualized* using *Excel and Power BI* to uncover trends and provide insights for data-driven decision-making.  
